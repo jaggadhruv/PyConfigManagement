@@ -1,0 +1,9 @@
+{
+  "param1": 42,
+  "param2": "Hello",
+  "param3": [1, 2, 3],
+  "param4": {
+    "nested_param1": true,
+    "nested_param2": 3.14
+  }
+}
